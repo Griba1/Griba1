@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou João Vitor Grzybowski</h1>
-<h3 align="center">Tenho contato com a tecnologia desde muito novo, Cada ano que passa descubro que a amo mais.</h3>
+<h3 align="center">Tenho contato com a tecnologia desde muito novo, cada ano que passa descubro que a amo mais.</h3>
 
 - 🔭 Atualmente estudando [Projeto de curso Alura - PowerBI](https://app.powerbi.com/view?r=eyJrIjoiZWM3ODQ2NjYtNWE4My00ODU5LThkYWUtODdhMGRmYjc3MjJjIiwidCI6ImFhNDk1ZjJjLWQzN2UtNGI1OC1hYjk1LWJmMDg3NGEzYWRiMiJ9)
 
