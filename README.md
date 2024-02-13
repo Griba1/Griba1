@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/griba0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="griba0" height="30" width="40" /></a>
 <a href= "https://www.linkedin.com/in/jo%C3%A3o-vitor-grzybowski-776aba2a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jo%c3%a3o-vitor-grzybowski-776aba2a5/" height="30" width="40" /></a>
-<a href="https://instagram.com/@griba0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@griba0" height="30" width="40" /></a>
+<a href= "https://www.instagram.com/griba0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@griba0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
